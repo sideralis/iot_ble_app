@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="json-20160810.jar"/>
+	<classpathentry kind="lib" path="org.eclipse.paho.client.mqttv3-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gautier/workspace_neon/iot_ble_analytic_java/json-20160810.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gautier/workspace_neon/iot_ble_analytic_java/org.eclipse.paho.client.mqttv3-1.1.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
